@@ -44,7 +44,8 @@
 ## Handling User Input
 
 ### Keyword
-- ObservableObject
-- EnvironmentObject
-- StateObject
-- Binding
+- @ObservableObject
+- @EnvironmentObject
+- @StateObject
+- @Binding
+- @Published
