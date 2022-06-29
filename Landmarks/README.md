@@ -38,3 +38,13 @@
 ### ForEach operates on collections the same way as the list
 - ForEach operates on collections the same way as the list which means you can use it anywhere you can use a child view, such as in stacks, lists, groups, and more.
 - When the elements of your data are simple value types — like the strings you’re using here — you can use \.self as key path to the identifier.
+
+<br>
+
+## Handling User Input
+
+### Keyword
+- ObservableObject
+- EnvironmentObject
+- StateObject
+- Binding
