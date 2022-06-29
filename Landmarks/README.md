@@ -21,3 +21,16 @@
 ### You use the @State attribute
 - You use the @State attribute to establish a source of truth for data in your app that you can modify from more than one view.
 - SwiftUI manages the underlying storage and automatically updates views that depend on the value.
+
+<br>
+
+## Building Lists and Navigation
+
+### You can use a Group to return multiple previews from a preview provider.
+- Group is a container for grouping view content. 
+- Xcode renders the group’s child views as separate previews in the canvas.
+
+### Lists work with identifiable data.
+- You can make your data identifiable in one of two ways: 
+- by passing along with your data a key path to a property that uniquely identifies each element,
+- or by making your data type conform to the Identifiable protocol.
