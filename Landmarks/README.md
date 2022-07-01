@@ -47,5 +47,5 @@
 - @ObservableObject
 - @EnvironmentObject
 - @StateObject
-- @Binding
+- <a href="https://developer.apple.com/documentation/swiftui/binding">@Binding</a>
 - @Published
