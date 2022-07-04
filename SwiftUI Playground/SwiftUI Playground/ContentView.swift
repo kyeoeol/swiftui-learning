@@ -9,13 +9,15 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        BookDetailView()
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
+    static let myBooks = MyBooks()
+    
     static var previews: some View {
         ContentView()
+            .environmentObject(myBooks)
     }
 }
