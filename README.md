@@ -17,5 +17,5 @@
   - **See Also :** @ObservedObject & @EnvironmentObject & @StateObject
 
 ### View Modifiers
-- <a href="">Configuring Views</a>
+- <a href="https://github.com/kyeoeol/swiftui-learning/wiki/Configuring-Views">Configuring Views</a>
 - <a href="">Reducing View Modifier Maintenance</a>
