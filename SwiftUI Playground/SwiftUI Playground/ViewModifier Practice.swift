@@ -35,26 +35,32 @@ struct MyTextStyle: ViewModifier {
 
 struct ViewModifier_Practice: View {
     var body: some View {
-        VStack {
-            Text("Main Title")
-                .font(.largeTitle)
-                .foregroundColor(.black)
-                .bold()
-            
-            Text("Sub Title")
-                .font(.title2)
-                .foregroundColor(.orange)
-                .italic()
-                .padding(.bottom, 20)
-            
-            Text("Description 1")
-                .customFont()
-            
-            Text("Description 2")
-                .modifier(
-                    MyTextStyle(myWeight: .bold, myColor: .orange)
-                )
-        }
+//        VStack {
+//            Text("Main Title")
+//                .font(.largeTitle)
+//                .foregroundColor(.black)
+//                .bold()
+//
+//            Text("Sub Title")
+//                .font(.title2)
+//                .foregroundColor(.orange)
+//                .italic()
+//                .padding(.bottom, 20)
+//
+//            Text("Description 1")
+//                .customFont()
+//
+//            Text("Description 2")
+//                .modifier(
+//                    MyTextStyle(myWeight: .bold, myColor: .orange)
+//                )
+//        } //: VStack
+        
+        Text("Title")
+            .bold()
+            .border(.gray)
+            .frame(width: 100)
+            .padding()
     }
 }
 
