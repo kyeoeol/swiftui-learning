@@ -18,4 +18,4 @@
 
 ### View Modifiers
 - <a href="https://github.com/kyeoeol/swiftui-learning/wiki/Configuring-Views">Configuring Views</a>
-- <a href="">Reducing View Modifier Maintenance</a>
+- <a href="https://github.com/kyeoeol/swiftui-learning/wiki/Reducing-View-Modifier-Maintenance">Reducing View Modifier Maintenance</a>
