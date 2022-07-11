@@ -16,6 +16,9 @@
 - <a href="https://github.com/kyeoeol/swiftui-learning/wiki/Managing-model-data-in-your-app">Managing model data in your app</a>
   - **See Also :** @ObservedObject & @EnvironmentObject & @StateObject
 
+### View Composition
+- <a href="">Declaring a Custom View</a>
+
 ### View Modifiers
 - <a href="https://github.com/kyeoeol/swiftui-learning/wiki/Configuring-Views">Configuring Views</a>
 - <a href="https://github.com/kyeoeol/swiftui-learning/wiki/Reducing-View-Modifier-Maintenance">Reducing View Modifier Maintenance</a>
