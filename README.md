@@ -17,7 +17,7 @@
   - **See Also :** @ObservedObject & @EnvironmentObject & @StateObject
 
 ### View Composition
-- <a href="">Declaring a Custom View</a>
+- <a href="https://github.com/kyeoeol/swiftui-learning/wiki/Declaring-a-Custom-View">Declaring a Custom View</a>
 
 ### View Modifiers
 - <a href="https://github.com/kyeoeol/swiftui-learning/wiki/Configuring-Views">Configuring Views</a>
